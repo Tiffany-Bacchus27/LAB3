@@ -8,7 +8,7 @@ POST/tank adds a new tank to the system, ensuring the required fields (location,
 PATCH/tank/{id} is used to update specific attributes of an existing tank and return the updated tank data or a 404 error if the tank is not found. 
 DELETE/tank/{id} is used to remove a tank from the system using its unique ID, return a 204 status code on successful deletion or respond with a 404 error if the tank does not exist. 
 
-TWO TRUTH ONE LIE:
-I can cook a perfect three-course meal 
-I can hold my breath for over two minutes 
+TWO TRUTHS ONE LIE:
+I can cook a perfect three-course meal,
+I can hold my breath for over two minutes,
 I have never broken a bone
